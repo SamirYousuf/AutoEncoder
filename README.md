@@ -12,16 +12,16 @@ description in GUL.
 
 
 ###### Input Layer
-    - *Input*
+    - Input
 ###### Encoder Layer
-    - *Convolution Layer
+    - Convolution Layer
     - MaxPooling
     - Dropout
     - Convolution Layer
     - MaxPooing
-    - Convolution Layer*
+    - Convolution Layer
 ###### Decoder Layer
-    - *Convolution layer
+    - Convolution layer
     - UpSampling
     - Convolution layer
     - UpSampling
@@ -30,7 +30,7 @@ description in GUL.
     - Convolution Layer
     - Flatten
     - Dense layer
-    - Output Layer (Dense layer)*
+    - Output Layer (Dense layer)
     
 ## Description of architecture and parameters
 
